@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Klashour, An E-learning Platform**
 
-- 🌱 I’m currently learning **React Native, TypeScript, tailwind**
+- 🌱 I’m currently learning **React Native, TypeScript, tailwind css**
 
-- 👯 I’m looking to collaborate on **Any react project**
+- 👯 I’m looking to collaborate on **any react project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Temidayomichael/](https://github.com/Temidayomichael/)
 
