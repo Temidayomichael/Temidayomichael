@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/temidayo_olad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="temidayo_olad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oladele-dayo-8aba21116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="oladele-dayo-8aba21116" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oladele-dayo-8aba21116" target="blank"><img align="center" src="https://th.bing.com/th/id/R.30c453b7f5fbdb09ea0cb42a5dc7a6e5?rik=6ziNIDi%2fe6vK5A&pid=ImgRaw" alt="oladele-dayo-8aba21116" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15831891" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="15831891" height="30" width="40" /></a>
 <a href="https://instagram.com/m.i.c.h.a.e.llll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="m.i.c.h.a.e.llll" height="30" width="40" /></a>
 <a href="https://dribbble.com/temidayo_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="temidayo_dev" height="30" width="40" /></a>
