@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/temidayo_olad" target="blank"><img src="https://img.shields.io/twitter/follow/temidayo_olad?logo=twitter&style=for-the-badge" alt="temidayo_olad" /></a> </p>
 
-- 🔭 I’m currently working on **Klashour, An E-learning Platform**
+- 🔭 I’m currently working on **Pykup, A Logistics on demand app**
 
-- 🌱 I’m currently learning **React Native, TypeScript, tailwind css**
-
-- 👯 I’m looking to collaborate on **any react project**
+- 🌱 I’m currently learning **Solidity, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Temidayomichael/](https://github.com/Temidayomichael/)
 
