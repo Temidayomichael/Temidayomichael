@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Solidity, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Temidayomichael/](https://github.com/Temidayomichael/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://temidayomichael.vercel.app/)
 
 - 📫 How to reach me **Dayoo.oladele@gmail.com**
 
