@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/temidayo_olad" target="blank"><img align="center" src="https://th.bing.com/th/id/R.dd545d3fed0a123fea51bc8663218027?rik=O1GVBiLoboAcIw&pid=ImgRaw" alt="temidayo_olad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oladele-dayo-8aba21116" target="blank"><img align="center" src="https://th.bing.com/th/id/R.30c453b7f5fbdb09ea0cb42a5dc7a6e5?rik=6ziNIDi%2fe6vK5A&pid=ImgRaw" alt="oladele-dayo-8aba21116" height="30" width="40" /></a>
+<a href="https://twitter.com/temidayo_olad" target="blank"><img align="center" src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="temidayo_olad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oladele-dayo-8aba21116" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="oladele-dayo-8aba21116" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15831891" target="blank"><img align="center" src="https://th.bing.com/th/id/R.e689a87d1172e11b259b5bf06b6fdaaf?rik=CuwmA6qhbDYluA&pid=ImgRaw" alt="15831891" height="30" width="40" /></a>
 <a href="https://instagram.com/m.i.c.h.a.e.llll" target="blank"><img align="center" src="https://th.bing.com/th/id/R.3dd7498561e1955b8403ea857dda0c9b?rik=oKHHRmLKGTUAXA&pid=ImgRaw" alt="m.i.c.h.a.e.llll" height="30" width="40" /></a>
 <a href="https://dribbble.com/temidayo_dev" target="blank"><img align="center" src="https://th.bing.com/th/id/R.93810770007bcf20b3800e07f0a059ef?rik=JDmELkBTPrH35Q&pid=ImgRaw" alt="temidayo_dev" height="30" width="40" /></a>
