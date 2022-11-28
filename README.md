@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Temidayo Michael, a full-time full-stack freelance developer 👨‍💻🚀</div>  
+### <div align="center">I'm Temidayo Michael, a full-time full-stack developer 👨‍💻🚀</div>  
   
 
 - 🌱 I’m currently learning Web3 and Metaverse  
