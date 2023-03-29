@@ -23,6 +23,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2vW3pZ9nbQws3yKB8BiFnA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Temidayomichael&icon=0&color=0)](https://visitcount.itsvg.in)
 
